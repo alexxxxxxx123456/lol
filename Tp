@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Treasure Hunt</title>
+        <link href="https://fonts.googleapis.com/css?family=Gloria+Hallelujah" rel="stylesheet">
+        <link rel="stylesheet" type="text/css" href="style.css">
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    </head>
+    <body>
+        <h1>Digital Treasure Hunt</h1>
+        <img id="treasure" src="https://images-na.ssl-images-amazon.com/images/I/81uzRsUHCXL._SX355_.jpg"><br>
+        <button>Click me!</button>
+        <p id="secretMessage3">click on the header!!</p>
+        <p id="secretMessage"></p>
+        <p id="secretMessage2"></p>
+        <img id="hiddenPic" src="https://featuredcreature.com/wp-content/uploads/2012/10/Screen+shot+2012-07-22+at+5.32.38+PM2.png">
+        <img src="https://media.giphy.com/media/11FjTPBEQFhoiY/giphy.gif" class="hooray">
+        <p class="hooray">You did it!!</p>
+        <script src="script.js"></script>
+    </body>
+</html>
+
